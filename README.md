@@ -37,5 +37,5 @@ open CMD and go to app.py file folder and write this command
 ```bash
 python app.py
 ```
-![running](screenshots/capture.PNG)
+![running](screenshots/Capture.PNG)
 # step 2. opening webpage
