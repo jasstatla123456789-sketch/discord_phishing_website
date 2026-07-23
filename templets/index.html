@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="brand"><img src="{{ url_for('static', filename='logo.png') }}" alt="Logo"
+        class="logo">
+        <h2 class ="website-name">Discord.</h2>
+    </div>
+    <div class="login-container">
+        <h1>Welcome back!</h1>
+        <p class="subtitle">we're so excited to see you again!</p>
+        <form action="/login" method="POST" class="login-form">
+            <div class="input-group">
+                <label for="username">Email or Phone Number</label>
+                <input type="text" name="username" placeholder="Email or Phone Number">
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="password" name="password" placeholder="Password">
+            </div>
+            <button type="submit" class="login-btn">Login</button>
+        </form>
+        <div class="signup-link">
+            <p>Don't have an account? <a href="#">Sign up</a></p>
+        </div>
+    </div>
+</body>
+</html>
