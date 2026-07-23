@@ -46,12 +46,24 @@ python app.py
  now copy the url given and open it in chrome
 
  ![open](screenshots/discord.PNG)
+ 
 now for refrence i will show you the real discord webite side by side
+
 ![real](screanshots/real.PNG)
 
  # step 3. login in the website
  now enter any random username and password
 
  ![login](screenshota/login.PNG)
+
+ then a successful login msg will appear
+
+ ![msg](screenshots/successful_msg.PNG)
+
+ # step 4. saved credentials
+  now that we have the user credentials we have used CSV file to save those and easily access them 
+ open users.csv file
+  ![csv](screenshots/save_data.PNG)
+ 
 
  
