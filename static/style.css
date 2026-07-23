@@ -1,0 +1,123 @@
+/* Basic styling for the page */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+margin:0;
+front-family:Arial, sans-serif;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+background-image:url("background.jfif");
+background-size: cover;
+background-position: center;   
+background-repeat: no-repeat;
+}
+
+.login-container {
+    width: 90%;
+    max-width: 750px;
+    min-width: 350px;
+    padding: 35px 60px;
+    background-color: #1f2937;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.brand {
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    display:flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+}
+
+.website-name {
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+}
+
+h1 {
+    color:white;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.subtitle {
+    color: #d9d9e0;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+/* Input fields styling */
+.input-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 8px;
+    color: white;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #363333;
+    border-radius: 4px;
+}
+
+.input-group input:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+/* Login button styling */
+.login-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #565ff3;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.login-btn:hover {
+    background-color: #565ff3;
+}
+
+/* Signup link styling */
+p{
+    color:#515154
+}
+.signup-link {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.signup-link a {
+    color:  #565ff3;
+    text-decoration: none;
+}
+
+.signup-link a:hover {
+    text-decoration: underline;
+}
