@@ -39,3 +39,19 @@ python app.py
 ```
 ![running](screenshots/Capture.PNG)
 # step 2. opening webpage
+ now from the output of the command that we have just run
+
+ ![output](screenshots/output.PNG)
+
+ now copy the url given and open it in chrome
+
+ ![open](screenshots/discord.PNG)
+now for refrence i will show you the real discord webite side by side
+![real](screanshots/real.PNG)
+
+ # step 3. login in the website
+ now enter any random username and password
+
+ ![login](screenshota/login.PNG)
+
+ 
