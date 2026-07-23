@@ -49,12 +49,12 @@ python app.py
  
 now for refrence i will show you the real discord webite side by side
 
-![real](screeanshots/real.PNG)
+![real](screenshots/real.PNG)
 
  # step 3. login in the website
  now enter any random username and password
 
- ![login](screenshota/login.PNG)
+ ![login](screenshots/login.PNG)
 
  then a successful login msg will appear
 
