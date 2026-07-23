@@ -64,6 +64,13 @@ now for refrence i will show you the real discord webite side by side
   now that we have the user credentials we have used CSV file to save those and easily access them 
  open users.csv file
   ![csv](screenshots/save_data.PNG)
+
+ And this is an manual representation of how phising work and how can we create a fake webpage.
+
+ ## writer
+ Jasmine kaur tatla
+ Btech CSE (cs&f) 3rd year
+
  
 
  
