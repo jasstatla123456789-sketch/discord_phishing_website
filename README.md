@@ -49,7 +49,7 @@ python app.py
  
 now for refrence i will show you the real discord webite side by side
 
-![real](screanshots/real.PNG)
+![real](screeanshots/real.PNG)
 
  # step 3. login in the website
  now enter any random username and password
