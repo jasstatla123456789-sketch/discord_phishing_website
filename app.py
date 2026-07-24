@@ -16,7 +16,7 @@ def login():
         writer = csv.writer(file)
         writer.writerow([username, password])
 
-    return "Login Successful!"
+    return render_template("success.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
