@@ -1,5 +1,5 @@
 # discord_phishing_website
-creating a fake website link to steal user credential (like username and password) for learning purpse and it saves the data in a CSV file.
+creating a fake website link to steal user credential (like username and password) for learning purpose and it saves the data in a CSV file.
 
 # what is Phishing
 Phishing is a cyberattack in which an attacker pretends to be a trusted person or organization to trick victims into revealing sensitive information such as:
