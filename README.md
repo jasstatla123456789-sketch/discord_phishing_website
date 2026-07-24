@@ -56,9 +56,9 @@ now for refrence i will show you the real discord webite side by side
 
  ![login](screenshots/login.PNG)
 
- then a successful login msg will appear
+ then the website is redirected to the orignal discord home page.
 
- ![msg](screenshots/successful_msg.PNG)
+ ![msg](screenshots/redirect.PNG)
 
  # step 4. saved credentials
   now that we have the user credentials we have used CSV file to save those and easily access them 
