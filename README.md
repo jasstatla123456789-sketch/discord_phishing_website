@@ -56,6 +56,10 @@ now for refrence i will show you the real discord webite side by side
 
  ![login](screenshots/login.PNG)
 
+ then a false error massage will appear on the screen to make user believe that the login attempt failed
+
+ ![error](screenshots/error.PNG)
+
  then the website is redirected to the orignal discord home page.
 
  ![msg](screenshots/redirect.PNG)
