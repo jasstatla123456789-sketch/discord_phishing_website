@@ -1,5 +1,12 @@
-# discord_phishing_website
-creating a fake website link to steal user credential (like username and password) for learning purpose and it saves the data in a CSV file.
+# discord phishing website
+creating a fake website link to steal user credential (like username and password) for learning purpose.
+
+# steps involving thid project
+1. A fake discord link is given and the user enter there credentials.
+2. Then they click on login there data is saved in a CSV file on backend.
+3. A fake error massage is shown saying "opps the login failed try again" and user think there login attempt failed and click ok
+4. then the user is redirected to the orignal discord home page.
+5. We can see the credentials in the CSV file.
 
 # what is Phishing
 Phishing is a cyberattack in which an attacker pretends to be a trusted person or organization to trick victims into revealing sensitive information such as:
